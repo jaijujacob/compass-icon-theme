@@ -21,6 +21,18 @@
      id="defs4">
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient849">
+      <stop
+         style="stop-color:#1a1a1a;stop-opacity:1;"
+         offset="0"
+         id="stop845" />
+      <stop
+         style="stop-color:#1a1a1a;stop-opacity:0;"
+         offset="1"
+         id="stop847" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        id="linearGradient7855">
       <stop
          style="stop-color:#46a8fb;stop-opacity:1"
@@ -41,6 +53,15 @@
        x2="30.296669"
        y2="1007.3235"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient849"
+       id="linearGradient851"
+       x1="172.70216"
+       y1="837.89337"
+       x2="206.40352"
+       y2="857.49371"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -50,7 +71,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.7231458"
-     inkscape:cx="29.81227"
+     inkscape:cx="-5.5703687"
      inkscape:cy="-17.859973"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -59,11 +80,11 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="1031"
-     inkscape:window-x="0"
+     inkscape:window-width="1469"
+     inkscape:window-height="1027"
+     inkscape:window-x="222"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      width="0px"
      height="0px"
      showguides="false"
@@ -145,5 +166,12 @@
          id="Rectangle 130"
          style="fill:#000000;fill-opacity:0.498039;stroke:none" />
     </g>
+    <rect
+       style="mix-blend-mode:multiply;fill:url(#linearGradient851);fill-opacity:1"
+       id="rect843"
+       width="25.714285"
+       height="15.1667"
+       x="172.70216"
+       y="837.89337" />
   </g>
 </svg>
